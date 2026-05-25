@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/brunoizac/brunoizac/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/brunoizac/brunoizac/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/brunoizac/brunoizac/stats-output/stats.svg" width="420" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/brunoizac/brunoizac/languages-output/languages.svg" width="400" alt="languages graph"  />
 </div>
 
 ###
