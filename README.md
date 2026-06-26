@@ -25,6 +25,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/mar技术/logos/main/totvs-protheus.svg" height="30" alt="protheus logo" onerror="this.src='https://img.icons8.com/color/48/totvs.png'" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/tfontes/logos/main/advpl.png" height="30" alt="advpl logo" onerror="this.src='https://img.icons8.com/ios-filled/50/code.png'" />
 </div>
 
 ###
