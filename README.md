@@ -28,9 +28,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="sql logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/mar技术/logos/main/totvs-protheus.svg" height="30" alt="protheus logo" onerror="this.src='https://img.icons8.com/color/48/totvs.png'" />
+  <img src="https://img.icons8.com/color/48/totvs.png" height="30" alt="protheus logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/tfontes/logos/main/advpl.png" height="30" alt="advpl logo" onerror="this.src='https://img.icons8.com/ios-filled/50/code.png'" />
+  <img src="https://img.icons8.com/fluency/48/source-code.png" height="30" alt="advpl logo" />
 </div>
 
 ###
